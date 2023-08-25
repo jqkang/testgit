@@ -10,3 +10,4 @@ assister want to add 5.time:20230908
 partner want to add 6.time:20230914
 vscode say to dev_partner NO.time:20230908
 checkout want to add 7.time:20230915
+partner want to minus 7.time:20230908
