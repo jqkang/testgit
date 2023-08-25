@@ -8,6 +8,9 @@ new created dev want to add 3.time:20230830
 partner want to add 4.time:20230903
 assister want to add 5.time:20230908
 partner want to add 6.time:20230914
+<<<<<<< HEAD
 vscode say OK.time:20230914
 vscode say to dev_partner OK.time:20230914
 vscode say to dev_partner NO.time:20230908
+=======
+>>>>>>> c7e4c71 (modification from partner)
