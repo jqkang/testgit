@@ -8,3 +8,4 @@ new created dev want to add 3.time:20230830
 partner want to add 4.time:20230903
 assister want to add 5.time:20230908
 partner want to add 6.time:20230914
+vscode say to dev_partner NO.time:20230908
